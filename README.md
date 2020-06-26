@@ -1,4 +1,4 @@
 # voice-assist
 A very simple and basic Voice assistant (Beginner Friendly).
-#Install package 
+# install module
 pip3 install pyttsx3
